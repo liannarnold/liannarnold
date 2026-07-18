@@ -1,6 +1,6 @@
 ## 📖 About Me
 
-I'm a senior software Engineer with a passion for exploring new technologies and building software. This GitHub profile features a collection of my side projects, where I experiment with different languages, frameworks, and ideas. Take a look around, and don’t hesitate to reach out if you have any questions or thoughts.
+I'm a Senior Software Engineer with a passion for exploring new technologies and building software. This GitHub profile features a collection of my side projects, where I experiment with different languages, frameworks, and ideas. Take a look around, and don’t hesitate to reach out if you have any questions or thoughts.
 
 ## 🛠️ Toolbox
 
