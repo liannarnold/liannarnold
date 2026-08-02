@@ -1,13 +1,13 @@
 ## 📖 About Me
 
-I'm a Senior Software Engineer with a passion for exploring new technologies and building software. This GitHub profile features a collection of my side projects, where I experiment with different languages, frameworks, and ideas. Take a look around, and don’t hesitate to reach out if you have any questions or thoughts.
+I'm a Senior Software Engineer with a passion for exploring new technologies and creating useable software. This GitHub profile features a collection of my side projects, where I experiment with different ideas.
 
 ## 🛠️ Toolbox
 
 ### Languages
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Frameworks
